@@ -1,4 +1,4 @@
-# Изменено в ветке main
+#Изменено в main и feature-branch
 """
 Простой калькулятор
 ===================
@@ -119,3 +119,8 @@ if __name__ == "__main__":
         print(f"Ошибка: {e}")
     
     print("\n" + "=" * 30)
+<<<<<<< HEAD
+=======
+
+#Test history
+>>>>>>> feature-branch
