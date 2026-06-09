@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Мой сайт</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Мой сайт</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Второй пост</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;h1 id=&#34;статические-сайты-vs-динамические&#34;&gt;Статические сайты vs Динамические&lt;/h1&gt;&#xA;&lt;p&gt;Разбираемся в отличиях.&lt;/p&gt;&#xA;&lt;h2 id=&#34;статические-сайты&#34;&gt;Статические сайты&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Быстрые&lt;/li&gt;&#xA;&lt;li&gt;Простые в создании&lt;/li&gt;&#xA;&lt;li&gt;Не требуют базы данных&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;динамические-сайты&#34;&gt;Динамические сайты&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сложнее&lt;/li&gt;&#xA;&lt;li&gt;Требуют серверной обработки&lt;/li&gt;&#xA;&lt;li&gt;Подходят для сложных проектов&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Первый пост</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;мой-первый-пост&#34;&gt;Мой первый пост&lt;/h1&gt;&#xA;&lt;p&gt;Сегодня я научился создавать статические сайты с помощью Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;что-я-узнал&#34;&gt;Что я узнал&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hugo — это генератор статических сайтов&lt;/li&gt;&#xA;&lt;li&gt;Страницы пишутся в Markdown&lt;/li&gt;&#xA;&lt;li&gt;Темы меняют внешний вид сайта&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;планы&#34;&gt;Планы&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Добавить больше постов&lt;/li&gt;&#xA;&lt;li&gt;Настроить тему оформления&lt;/li&gt;&#xA;&lt;li&gt;Опубликовать сайт&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

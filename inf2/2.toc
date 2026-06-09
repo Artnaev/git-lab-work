@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Введение}{3}{0}{1}
+\beamer@sectionintoc {2}{Основные понятия}{6}{0}{2}
+\beamer@sectionintoc {3}{Математические основы}{14}{0}{3}
+\beamer@sectionintoc {4}{Применение}{29}{0}{4}
+\beamer@sectionintoc {5}{Заключение}{37}{0}{5}

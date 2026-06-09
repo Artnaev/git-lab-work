@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Мой сайт</title>
+    <link>http://localhost:1313/tags/web/</link>
+    <description>Recent content in Web on Мой сайт</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Второй пост</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;h1 id=&#34;статические-сайты-vs-динамические&#34;&gt;Статические сайты vs Динамические&lt;/h1&gt;&#xA;&lt;p&gt;Разбираемся в отличиях.&lt;/p&gt;&#xA;&lt;h2 id=&#34;статические-сайты&#34;&gt;Статические сайты&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Быстрые&lt;/li&gt;&#xA;&lt;li&gt;Простые в создании&lt;/li&gt;&#xA;&lt;li&gt;Не требуют базы данных&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;динамические-сайты&#34;&gt;Динамические сайты&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Сложнее&lt;/li&gt;&#xA;&lt;li&gt;Требуют серверной обработки&lt;/li&gt;&#xA;&lt;li&gt;Подходят для сложных проектов&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Введение}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Основная часть}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Преимущества и особенности бинарной системы}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Применение бинарной системы}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Области применения бинарных системы}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Пример альбомной страницы}{7}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Таблицы}{8}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Простая таблица}{8}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Объединение строк}{8}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Математические основы бинарной системы}{9}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Пример разложения}{9}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Арифметические операции}{9}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Теорема}{9}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Пример программного кода}{10}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Вывод на экран Hello, World!}{10}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Перевод числа в двоичную систему}{10}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Визуализация графиков}{11}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Функция одной переменной}{11}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Окружность}{12}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Полярная координата}{13}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Поверхности}{13}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Цилиндрические и сферические координаты}{14}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Заключение}{15}{chapter.9}%

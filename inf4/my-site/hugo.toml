@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "ru-ru"
+title = "Мой сайт"
+theme = "ananke"
+
+[params]
+  author = "Какнаев Артем"
+  description = "Учебный статический сайт"
+
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Блог"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Проекты"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "О себе"
+    url = "/about/"
+    weight = 4
